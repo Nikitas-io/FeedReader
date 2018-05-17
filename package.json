@@ -1,0 +1,30 @@
+{
+  "name": "feedreader",
+  "version": "1.0.0",
+  "description": "Feed reader project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "feed",
+    "reader"
+  ],
+  "author": "Nikitas Chatzipazarlis",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.24.4",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify-es": "^1.0.1"
+  },
+  "dependencies": {
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
