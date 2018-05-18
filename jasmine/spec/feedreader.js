@@ -130,7 +130,7 @@ $(function () {
         });
 
         it('loads the new feeds', function (done) {
-            expect(feed0).toBe(feed1);
+            expect(feed0).not.toBe(feed1);
             done();
         });
     });
