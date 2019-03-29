@@ -1,6 +1,6 @@
 # Feed Reader Project
 
-This is my version of the Feed Reader Project. I made use use of the Jasmine Testing framework to implement the tests detailed in the project's instruction to recreate the feed reader application with tests.
+This project demonstrates browser-based testing using Jasmine. I made use of the Jasmine Testing framework to implement javascript code testing using different tests. Testing code logic becomes important when you are adding new features to an application.
 
 ## Run the app
 
